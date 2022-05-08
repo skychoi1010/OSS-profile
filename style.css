@@ -1,0 +1,28 @@
+.container {
+  width: 600px;
+}
+
+.content .header {
+  background-color: #b2def2;
+  height: 200px;
+}
+
+.profile {
+  margin-top: 150px;
+}
+
+.contact {
+  background-color: #ecf7fc;
+}
+
+.details {
+  text-align: right;
+}
+
+#pic {
+  width: 190px;
+}
+
+.badge {
+  font-size: 0.9rem;
+}
