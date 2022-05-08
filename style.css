@@ -1,8 +1,4 @@
-.container {
-  width: 600px;
-}
-
-.content .header {
+.header {
   background-color: #b2def2;
   height: 200px;
 }
